@@ -35,7 +35,4 @@ $ git clone https://github.com/Manikantakadiyala/Todo-Management-System.git
 With these steps, you'll have the necessary environment set up to run the Spring Boot backend and the React frontend of the application locally.
 
 
-## License 📝
-
-This project is [MIT](./MIT.md) licensed.  
 
